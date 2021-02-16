@@ -1,0 +1,19 @@
+{
+  "name": "koa-jose",
+  "version": "1.0.0",
+  "description": "This is jose flavor as koa-jwt is for jsonwebtoken",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa-jose",
+    "jose"
+  ],
+  "author": "Zeeshan Hassan Memon",
+  "license": "ISC",
+  "dependencies": {
+    "jose": "^3.6.2",
+    "koa-unless": "^1.0.7"
+  }
+}
